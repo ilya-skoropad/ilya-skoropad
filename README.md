@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ilya-skoropad
+- 👀 I’m interested in Unity development
+- 🌱 I’m currently learning C# and Golang
+- 💞️ I’m looking to collaborate on any unity projects
+- 📫 How to reach me in telegram @Inverth
